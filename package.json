@@ -1,9 +1,7 @@
 {
   "name": "judicial-proxy",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "commonjs",
-  "engines": { "node": ">=18" },
-  "scripts": { "start": "node index.js" },
-  "dependencies": { "express": "^4.19.2" }
+  "type": "module",
+  "private": true,
+  "dependencies": {}
 }
